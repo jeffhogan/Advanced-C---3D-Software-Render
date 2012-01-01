@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\SpaceGame_lab3\GameResources\bin\Release\GameResources.dll
+C:\Users\Administrator\Desktop\SpaceGame_lab3\GameResources\bin\Release\GameResources.pdb
+C:\Users\Administrator\Desktop\SpaceGame_lab3\GameResources\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SpaceGame_lab3\GameResources\obj\Release\GameResources.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SpaceGame_lab3\GameResources\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\SpaceGame_lab3\GameResources\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\SpaceGame_lab3\GameResources\obj\Release\GameResources.dll
+C:\Users\Administrator\Desktop\SpaceGame_lab3\GameResources\obj\Release\GameResources.pdb

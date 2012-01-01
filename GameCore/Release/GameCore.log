@@ -1,0 +1,24 @@
+﻿Build started 11/22/2011 1:28:16 PM.
+Project "C:\Users\Administrator\Desktop\SpaceGame_lab3\GameCore\GameCore.vcxproj" on node 2 (rebuild target(s)).
+PrepareForBuild:
+  Creating directory "C:\Users\Administrator\Desktop\SpaceGame_lab3\Release\".
+InitializeBuildStatus:
+  Creating "Release\GameCore.unsuccessfulbuild" because "AlwaysCreate" was specified.
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\GameCore.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FUC:\Users\Administrator\Desktop\SpaceGame_lab3\GameResources\bin\Release\GameResources.dll /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp CORE\CORE.Matrix.cpp CORE\CORE.Resources.cpp GameCore.cpp /clr:nostdlib 
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(39): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  CORE.Matrix.cpp
+CORE\CORE.Matrix.cpp(270): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  CORE.Resources.cpp
+CORE\CORE.Resources.cpp(53): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  GameCore.cpp
+GameCore.cpp(205): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  Generating Code...
+Done Building Project "C:\Users\Administrator\Desktop\SpaceGame_lab3\GameCore\GameCore.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.94

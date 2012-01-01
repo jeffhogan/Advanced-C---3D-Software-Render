@@ -1,0 +1,44 @@
+﻿Build started 12/5/2011 7:57:34 PM.
+Project "C:\Users\Administrator\Desktop\SpaceGame_lab4\GameCore\GameCore.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Debug\GameCore.unsuccessfulbuild" because "AlwaysCreate" was specified.
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FUC:\Users\Administrator\Desktop\SpaceGame_lab4\GameResources\bin\Debug\GameResources.dll /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt CORE\CORE.Drawing.3D.cpp /clr:nostdlib 
+  CORE.Drawing.3D.cpp
+CORE\CORE.Drawing.3D.cpp(96): warning C4244: '=' : conversion from 'const double' to 'float', possible loss of data
+CORE\CORE.Drawing.3D.cpp(97): warning C4244: '=' : conversion from 'const double' to 'float', possible loss of data
+CORE\CORE.Drawing.3D.cpp(98): warning C4244: '=' : conversion from 'const double' to 'float', possible loss of data
+CORE\CORE.Drawing.3D.cpp(104): warning C4244: 'initializing' : conversion from 'const double' to 'float', possible loss of data
+CORE\CORE.Drawing.3D.cpp(105): warning C4244: 'initializing' : conversion from 'const double' to 'float', possible loss of data
+CORE\CORE.Drawing.3D.cpp(107): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+CORE\CORE.Drawing.3D.cpp(108): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+CORE\CORE.Drawing.3D.cpp(118): warning C4244: '=' : conversion from 'const double' to 'float', possible loss of data
+CORE\CORE.Drawing.3D.cpp(119): warning C4244: '=' : conversion from 'const double' to 'float', possible loss of data
+CORE\CORE.Drawing.3D.cpp(120): warning C4244: '=' : conversion from 'const double' to 'float', possible loss of data
+CORE\CORE.Drawing.3D.cpp(152): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+CORE\CORE.Drawing.3D.cpp(152): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+CORE\CORE.Drawing.3D.cpp(153): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+CORE\CORE.Drawing.3D.cpp(153): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+CORE\CORE.Drawing.3D.cpp(154): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+CORE\CORE.Drawing.3D.cpp(154): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+  All outputs are up-to-date.
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\SpaceGame_lab4\Debug\GameCore.dll" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\GameCore.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Desktop\SpaceGame_lab4\Debug\GameCore.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Debug\AssemblyInfo.obj
+  Debug\CORE.Drawing.3D.obj
+  Debug\CORE.Matrix.obj
+  Debug\CORE.Resources.obj
+  Debug\GameCore.obj
+  "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+  GameCore.vcxproj -> C:\Users\Administrator\Desktop\SpaceGame_lab4\Debug\GameCore.dll
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Administrator\Desktop\SpaceGame_lab4\Debug\GameCore.dll;#2" /manifest Debug\GameCore.dll.intermediate.manifest
+FinalizeBuildStatus:
+  Deleting file "Debug\GameCore.unsuccessfulbuild".
+  Touching "Debug\GameCore.lastbuildstate".
+Done Building Project "C:\Users\Administrator\Desktop\SpaceGame_lab4\GameCore\GameCore.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.17
